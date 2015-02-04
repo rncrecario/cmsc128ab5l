@@ -6,6 +6,14 @@ This README file presents what how to produce a markdown file.
 ## Developers
 The following are the developers of this project:
 
-* Erica Mae Yeban
-* Clark Adrian Adalia
-
+* Yeban
+* Adalia
+* Tagle
+* Cuenco
+* Sinang
+* Favorito
+* Navarro
+* Casero
+* dela Cruz
+* primzenladia
+* rahmatdabalos
