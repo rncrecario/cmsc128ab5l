@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CMSC 128 Project - Learning Git
 This README file presents what how to produce a markdown file.
 _Note: We are trying our best to learn it asap._
@@ -11,6 +12,18 @@ Exercise Material for CMSC128 AB5L for AY2014-2015
 # CMSC 128 Project - Learning Git
 This README file presents what how to produce a markdown file.
 *Note: We are trying our best to learn it asap.*
+=======
+
+# CMSC 128 Project - Learning Git
+This README file presents what how to produce a markdown file.
+*Note: We are trying our best to learn it asap.*
+
+## Developers
+The following are the developers of this project:
+
+* Erica Mae Yeban
+* Clark Adrian Adalia
+>>>>>>> 19966496f826583f16e628c04228c878c630ec76
 
 ## Developers
 The following are the developers of this project:
